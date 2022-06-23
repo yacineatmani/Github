@@ -2,5 +2,4 @@
 wordpress-drupal-mysql-docker/etc/sql/
 ansible
 my-vagrant-project
-ansible
 .vagrant
