@@ -1,0 +1,32 @@
+``````
+tar -cvf tarball.tar file 1 file2 file 3
+``````
+bundle tar
+
+``````
+tar -xf tarball.tar
+``````
+unbundle tar
+
+``````
+ls -laR $(find .)
+``````
+printing directory listing 
+``````
+du -a
+``````
+see alll of the write counts for all files
+
+``````
+sudo less /var/log/secure 
+or
+sudo less/tmp/log/secure
+
+``````
+result in view the log
+
+``````
+sudo lastlog
+
+``````
+see lastlog
